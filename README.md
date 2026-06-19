@@ -1,5 +1,5 @@
 # Using POwershell to implement Task Automation and Configuration Management via Command-Line
-![image alt](https://github.com/keemziatapex/user-account/blob/c3eb1393497c3d2913d64e9421230db3bee9c3cf/Screenshot%202026-06-18%20220308.png)
+![image alt](https://github.com/keemziatapex/Powershell/blob/f9a63cd1bbb912dc79e07be9a301de579e9a830a/Screenshot%202026-06-19%20185927.png)
 </p>
 
 <h1>Creating User's in Our Lab Environment (Azure)</h1>
