@@ -24,15 +24,21 @@ This Lab outlines the use of Command-Line in Window Powershell<br />
 ![image alt](https://github.com/keemziatapex/Powershell/blob/ab2e19477ec79e82ff22074bfb6ba645c44a06a9/Screenshot%202026-06-19%20184754.png)
 </p>
 <p>
+  
 <h2>Using the command-line "TASKLIST"</h2>
+<p>
+<br /> 
 
-![image alt](https://github.com/keemziatapex/Powershell/blob/ab2e19477ec79e82ff22074bfb6ba645c44a06a9/Screenshot%202026-06-19%20184754.png)
+![image alt](https://github.com/keemziatapex/Powershell/blob/d3f901e02563556fe36a3087752612b4a11e0486/Screenshot%202026-06-19%20185149.png)
 </p>
 <p>
+  
+<h2>Using the command-line "GET-DATE"</h2>
+  
 </p>
 <br />
 
-![image alt](https://github.com/keemziatapex/user-account/blob/9988402031d8bd6572fac151716e143ecd6155c9/Screenshot%202026-06-17%20180124.png)
+![image alt]()
 </p>
 <p>
 Created a new user named Fausat Bolaji.
