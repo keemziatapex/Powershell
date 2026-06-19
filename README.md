@@ -16,12 +16,12 @@ This Lab outlines the use of Command-Line in Window Powershell<br />
 - Windows 11
 
 
-<h2>Using the command-line "SYSTEMINF"</h2>
+<h2>Using the command-line "SYSTEMINFO"</h2>
 
 <p>
 <br />  
   
-![image alt]()
+![image alt](https://github.com/keemziatapex/Powershell/blob/f9a63cd1bbb912dc79e07be9a301de579e9a830a/Screenshot%202026-06-19%20185927.png)
 </p>
 <p>
 Created a new user named Khairat Abijo.
