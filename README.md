@@ -34,12 +34,19 @@ This Lab outlines the use of Command-Line in Window Powershell<br />
 <p>
   
 <h2>Using the command-line "GET-DATE"</h2>
+<h2>Using the command-line "GET-SERVICE"</h2>
   
+</p>
+<br />
+
+![image alt](https://github.com/keemziatapex/Powershell/blob/a56065999d4362a48908d063165601e3d703304d/Screenshot%202026-06-19%20185433.png)
+</p>
+<p>
+  
+<h2>Using the command-line "GET-LOCATION"</h2>
 </p>
 <br />
 
 ![image alt]()
 </p>
 <p>
-Created a new user named Fausat Bolaji.
-</p>
