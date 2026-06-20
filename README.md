@@ -47,6 +47,6 @@ This Lab outlines the use of Command-Line in Window Powershell<br />
 </p>
 <br />
 
-![image alt]()
+![image alt](https://github.com/keemziatapex/Powershell/blob/e36f20809d622711c175c5fcff2ac829be33f266/Screenshot%202026-06-19%20185609.png)
 </p>
 <p>
